@@ -8,7 +8,7 @@
  *          listen to broadcasting message, choose either create game, join a game, or
  *          refresh the list.
  *          start a game once one person created a game and another person join the game
- * -------------------------------------------------------------------------------------------
+ * -------------------------------------------------------------------------------------------`
  */
 #include <iostream>
 #include <stdio.h>
